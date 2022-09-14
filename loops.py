@@ -14,6 +14,3 @@ for i, element in enumerate([1, "two", "three"]):
 for key, value in {"first": 1, "second": 2}.items():
     print(f"В ключе {key} содержится значение {value}")
 
-
-
-
